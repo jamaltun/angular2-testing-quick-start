@@ -7,13 +7,12 @@ To read the guide head on over to [the repo](https://github.com/AngularClass/ang
 
 Run the App
 -------------------
-To run the app, make sure you have Node installed.
-
-And install and run the `serve` package so you can build the app.
+To run the app, make sure you have Node installed and then run the following commands.
 
 ```
-npm install -g serve
-serve src/
+npm install -g webpack webpack-dev-server typescript
+npm install
+npm start
 ```
 
 Navigate to `http://localhost:3000`
