@@ -87,7 +87,7 @@ import {MESSAGES_PROVIDERS} from './common/models/models';
 
   <header>
     <h1 id="logo">
-      <a href="#/home"></a>
+      <a [router-link]=" ['Home'] "></a>
     </h1>
 
     <div id="menu">
@@ -122,4 +122,3 @@ export class App {
 
 
 }
-
