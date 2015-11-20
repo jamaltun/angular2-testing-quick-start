@@ -28,7 +28,7 @@
     "url": "https://github.com/angularclass/angular2-webpack-starter.git"
   },
   "author": "gdi2290 <github@gdi2290.com>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/angularclass/angular2-webpack-starter/issues"
   },
